@@ -1,0 +1,8 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ovukeihu.github.io/NWR/sitemap_index.txt.gz
+Sitemap: https://ovukeihu.github.io/hpy/sitemap_index.txt.gz
+Sitemap: https://ovukeihu.github.io/pTG/sitemap_index.txt.gz
+Sitemap: https://ovukeihu.github.io/rqa/sitemap_index.txt.gz
+Sitemap: https://ovukeihu.github.io/vtY/sitemap_index.txt.gz
